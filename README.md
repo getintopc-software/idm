@@ -26,7 +26,7 @@ Here is a list of some of the advantages for download idm from getintopc.
 Internet Download Manager (IDM) is a powerful tool that enhances download speed and manages files efficiently. If you're looking to download IDM from GetIntoPC, follow these simple steps:
 
 ### Step 1: Visit GetIntoPC Website
-Open your web browser and go to GetIntoPC[Getintopc](getintopc.cyou).
+Open your web browser and go to [Getintopc](https://getintopc.cyou).
 Use the search bar on the homepage and type "Internet Download Manager" or "IDM" to find the latest version.
 ### Step 2: Select the IDM Version
 Click on the IDM result that matches your requirements.
